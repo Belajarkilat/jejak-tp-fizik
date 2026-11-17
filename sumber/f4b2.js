@@ -109,7 +109,7 @@ module.exports = {
    tiada:"{n} belum menunjukkan bukti penguasaan yang mencukupi bagi bab Daya dan Gerakan I. Cadangan: ulang hentian pertama dan lakar graf halaju-masa bagi perjalanan ke sekolah."
   },
   lampiran:{
-   g1:{jenis:"graf", x:[0,2,4,6,8,10], xLabel:"Masa (s)", titik:true, yMin:0, yMaks:14,
+   g1:{jenis:"graf", x:[0,2,4,6,8,10], xLabel:"Masa (s)", titik:true, yMin:0, yMaks:12, grid:6,
      siri:[{label:"Halaju (m s⁻¹)", y:[0,6,12,12,12,0], warna:"ungu"}],
      kapsyen:"Rajah 1 · Graf halaju melawan masa sebuah objek",
      alt:"Graf halaju-masa: halaju naik secara linear dari 0 ke 12 meter sesaat dalam 4 saat, malar 12 dari saat 4 hingga 8, kemudian turun ke 0 pada saat 10"},

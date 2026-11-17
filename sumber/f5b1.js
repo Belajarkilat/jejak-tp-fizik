@@ -108,7 +108,7 @@ module.exports = {
    tiada:"{n} belum menunjukkan bukti penguasaan yang mencukupi bagi bab Daya dan Gerakan II. Cadangan: ulang hentian pertama dan cuba tarik beg dengan sudut berbeza untuk merasai komponen daya."
   },
   lampiran:{
-   g1:{jenis:"graf", x:[0,1,2,3,4,5], xLabel:"Pemanjangan (cm)", titik:true, yMin:0, yMaks:12,
+   g1:{jenis:"graf", x:[0,1,2,3,4,5], xLabel:"Pemanjangan (cm)", titik:true, yMin:0, yMaks:12, grid:6,
      siri:[{label:"Daya (N)", y:[0,2,4,6,8,10], warna:"ungu"}],
      kapsyen:"Rajah 1 · Graf daya melawan pemanjangan sebuah spring",
      alt:"Graf garis lurus melalui asalan: daya bertambah 2 N bagi setiap 1 cm pemanjangan, hingga 10 N pada 5 cm"}

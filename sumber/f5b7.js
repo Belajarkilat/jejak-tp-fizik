@@ -52,15 +52,15 @@ const ARAS = [
  kadNama:"Graf K-f", kadEm:"\u{1F4C8}", kadFakta:"Graf tenaga kinetik maksimum melawan frekuensi ialah garis lurus. Kecerunan = h; pintasan-f = f₀.",
  bosKadNama:"Logam Berbeza", bosKadEm:"\u{1F947}", bosKadFakta:"Logam berbeza memberi garis selari dengan kecerunan sama (h) tetapi pintasan berbeza (f₀ berbeza).",
  soalan:[
- {j:"nombor",t:"Berdasarkan Rajah 1, hitung kecerunan graf dalam eV per 10¹⁴ Hz. Beri jawapan kepada 3 tempat perpuluhan.",b:0.415,tol:0.005,suf:"eV per 10¹⁴ Hz",u:"Kecerunan = (1.73 − 0.07) ÷ (9 − 5) = 1.66 ÷ 4 = 0.415 eV per 10¹⁴ Hz."},
- {j:"nombor",t:"Berdasarkan Rajah 1 dan soalan tadi, tukarkan kecerunan kepada pemalar Planck dalam unit 10⁻³⁴ J s. Beri jawapan kepada 2 tempat perpuluhan.",b:6.64,tol:0.03,suf:"× 10⁻³⁴ J s",u:"h = 0.415 × 1.6 × 10⁻¹⁹ ÷ 10¹⁴ = 6.64 × 10⁻³⁴ J s."},
- {j:"nombor",t:"Berdasarkan Rajah 1, anggarkan frekuensi ambang dengan mengekstrapolasi graf ke K = 0. Beri jawapan dalam unit 10¹⁴ Hz kepada 1 tempat perpuluhan.",b:4.8,tol:0.1,suf:"× 10¹⁴ Hz",u:"f₀ = 5 − 0.07 ÷ 0.415 = 4.83 ≈ 4.8 × 10¹⁴ Hz."},
- {j:"nombor",t:"Berdasarkan Rajah 1, hitung fungsi kerja logam dalam eV. Beri jawapan kepada 1 tempat perpuluhan.",b:2,tol:0.05,suf:"eV",u:"W = hf₀ = 0.415 × 4.83 = 2.0 eV (atau pintasan-K yang diekstrapolasi = −2.0 eV)."},
+ {j:"nombor",t:"Berdasarkan Rajah 1, hitung kecerunan graf dalam eV per 10¹⁴ Hz. Beri jawapan kepada 1 tempat perpuluhan.",b:0.4,tol:0.01,suf:"eV per 10¹⁴ Hz",u:"Kecerunan = (2.0 − 0.4) ÷ (10 − 6) = 1.6 ÷ 4 = 0.4 eV per 10¹⁴ Hz."},
+ {j:"nombor",t:"Berdasarkan Rajah 1 dan soalan tadi, tukarkan kecerunan kepada pemalar Planck dalam unit 10⁻³⁴ J s. Beri jawapan kepada 1 tempat perpuluhan.",b:6.4,tol:0.03,suf:"× 10⁻³⁴ J s",u:"h = 0.4 × 1.6 × 10⁻¹⁹ ÷ 10¹⁴ = 6.4 × 10⁻³⁴ J s, hampir dengan nilai sebenar 6.63 × 10⁻³⁴ J s (data eksperimen sekolah)."},
+ {j:"nombor",t:"Berdasarkan Rajah 1, anggarkan frekuensi ambang dengan mengekstrapolasi graf ke K = 0. Beri jawapan dalam unit 10¹⁴ Hz kepada 1 tempat perpuluhan.",b:5,tol:0.1,suf:"× 10¹⁴ Hz",u:"f₀ = 6 − 0.4 ÷ 0.4 = 5.0 × 10¹⁴ Hz."},
+ {j:"nombor",t:"Berdasarkan Rajah 1, hitung fungsi kerja logam dalam eV. Beri jawapan kepada 1 tempat perpuluhan.",b:2,tol:0.05,suf:"eV",u:"W = hf₀ = 0.4 × 5.0 = 2.0 eV (atau pintasan-K yang diekstrapolasi = −2.0 eV)."},
  {j:"pilih",t:"Cahaya 4.0 × 10¹⁴ Hz juga diuji tetapi tiada bacaan dicatat dalam Rajah 1. Mengapakah?",p:["Frekuensi di bawah f₀","Alat pengukur rosak","Cahaya terlalu terang","Tenaga kinetik negatif dicatat"],b:0,u:"Frekuensi 4.0 × 10¹⁴ Hz di bawah f₀, jadi tiada elektron dipancarkan."},
  {j:"pilih",t:"Eksperimen Rajah 1 diulang dengan cahaya yang lebih terang pada frekuensi yang sama. Graf baharu akan:",p:["Bertindih dengan graf asal","Lebih curam daripada asal","Beralih ke kiri sedikit","Beralih ke atas sedikit"],b:0,u:"Keamatan tidak mempengaruhi tenaga kinetik maksimum, hanya bilangan elektron."},
  {j:"pilih",t:"Eksperimen Rajah 1 diulang dengan logam yang fungsi kerjanya lebih besar. Graf baharu akan:",p:["Selari, beralih ke kanan","Lebih curam daripada asal","Selari, beralih ke kiri","Bertindih dengan asal"],b:0,u:"Kecerunan tetap h, tetapi f₀ lebih besar, jadi garis beralih ke kanan."},
  {j:"pilih",t:"Berdasarkan Rajah 1, kecerunan graf yang sama bagi semua logam menunjukkan bahawa:",p:["h ialah pemalar sejagat","Semua logam sama fungsi kerja","Cahaya tiada tenaga","Elektron tiada jisim"],b:0,u:"Pemalar Planck tidak bergantung pada bahan."}],
- bos:{j:"pilih",t:"Berdasarkan Rajah 1, cahaya 7.0 × 10¹⁴ Hz digunakan. Berapakah voltan henti yang diperlukan untuk menghentikan fotoelektron terlaju?",p:["0.90 V","2.0 V","7.0 V","0.07 V"],b:0,u:"eV(henti) = K(maks) = 0.90 eV, jadi voltan henti = 0.90 V."}},
+ bos:{j:"pilih",t:"Berdasarkan Rajah 1, cahaya 7.0 × 10¹⁴ Hz digunakan. Berapakah voltan henti yang diperlukan untuk menghentikan fotoelektron terlaju?",p:["0.80 V","2.0 V","7.0 V","0.40 V"],b:0,u:"eV(henti) = K(maks) = 0.80 eV, jadi voltan henti = 0.80 V."}},
 
 {n:5, tempat:"Pusat Teknologi Cahaya", sk:"7.1 hingga 7.3 Menilai aplikasi fizik kuantum", lampiran:"j1",
  kadNama:"Pilih Bahan", kadEm:"\u{1F9EA}", kadFakta:"Bahan fotosel dipilih supaya fungsi kerjanya lebih rendah daripada tenaga foton cahaya yang hendak dikesan.",
@@ -109,10 +109,10 @@ module.exports = {
    tiada:"{n} belum menunjukkan bukti penguasaan yang mencukupi bagi bab Fizik Kuantum. Cadangan: ulang hentian pertama dan perhatikan cara panel suria di kalkulator berfungsi."
   },
   lampiran:{
-   g1:{jenis:"graf", x:[5,6,7,8,9], xLabel:"Frekuensi cahaya (× 10¹⁴ Hz)", titik:true, yMin:0, yMaks:2,
-     siri:[{label:"Tenaga kinetik maksimum (eV)", y:[0.07,0.49,0.90,1.31,1.73], warna:"ungu"}],
+   g1:{jenis:"graf", x:[6,7,8,9,10], xLabel:"Frekuensi cahaya (× 10¹⁴ Hz)", titik:true, yMin:0, yMaks:2.4, grid:6,
+     siri:[{label:"Tenaga kinetik maksimum (eV)", y:[0.4,0.8,1.2,1.6,2.0], warna:"ungu"}],
      kapsyen:"Rajah 1 · Graf tenaga kinetik maksimum fotoelektron melawan frekuensi cahaya bagi satu logam",
-     alt:"Graf garis lurus menaik: 0.07 eV pada 5, 0.49 pada 6, 0.90 pada 7, 1.31 pada 8 dan 1.73 eV pada 9 kali 10 kuasa 14 hertz"},
+     alt:"Graf garis lurus menaik: 0.4 eV pada 6, 0.8 pada 7, 1.2 pada 8, 1.6 pada 9 dan 2.0 eV pada 10 kali 10 kuasa 14 hertz"},
    j1:jadual(1, "Fungsi kerja beberapa logam",
      ["Logam", "Fungsi kerja (eV)"],
      [["Sesium","2.1"],["Natrium","2.3"],["Zink","4.3"],["Kuprum","4.7"]])

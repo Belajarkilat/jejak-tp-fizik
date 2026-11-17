@@ -39,7 +39,7 @@ window.BANK["f5b7"] =
   "tiada": "{n} belum menunjukkan bukti penguasaan yang mencukupi bagi bab Fizik Kuantum. Cadangan: ulang hentian pertama dan perhatikan cara panel suria di kalkulator berfungsi."
  },
  "lampiran": {
-  "g1": "<figure class=\"figure\"><svg viewBox=\"0 0 260 194\" role=\"img\" aria-label=\"Graf garis lurus menaik: 0.07 eV pada 5, 0.49 pada 6, 0.90 pada 7, 1.31 pada 8 dan 1.73 eV pada 9 kali 10 kuasa 14 hertz\"><line x1=\"40\" y1=\"150\" x2=\"248\" y2=\"150\" stroke=\"var(--line)\" stroke-width=\"1\"></line><text x=\"35\" y=\"154\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"end\">0</text><line x1=\"40\" y1=\"116.5\" x2=\"248\" y2=\"116.5\" stroke=\"var(--line)\" stroke-width=\"1\"></line><text x=\"35\" y=\"120.5\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"end\">0.5</text><line x1=\"40\" y1=\"83\" x2=\"248\" y2=\"83\" stroke=\"var(--line)\" stroke-width=\"1\"></line><text x=\"35\" y=\"87\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"end\">1</text><line x1=\"40\" y1=\"49.5\" x2=\"248\" y2=\"49.5\" stroke=\"var(--line)\" stroke-width=\"1\"></line><text x=\"35\" y=\"53.5\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"end\">1.5</text><line x1=\"40\" y1=\"16\" x2=\"248\" y2=\"16\" stroke=\"var(--line)\" stroke-width=\"1\"></line><text x=\"35\" y=\"20\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"end\">2</text><line x1=\"40\" y1=\"16\" x2=\"40\" y2=\"150\" stroke=\"var(--line2)\" stroke-width=\"1.5\"></line><line x1=\"40\" y1=\"150\" x2=\"248\" y2=\"150\" stroke=\"var(--line2)\" stroke-width=\"1.5\"></line><text x=\"40\" y=\"165\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"middle\">5</text><text x=\"92\" y=\"165\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"middle\">6</text><text x=\"144\" y=\"165\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"middle\">7</text><text x=\"196\" y=\"165\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"middle\">8</text><text x=\"248\" y=\"165\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"middle\">9</text><text x=\"144\" y=\"181\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"middle\">Frekuensi cahaya (× 10¹⁴ Hz)</text><path d=\"M40 145.3 L92 117.2 L144 89.7 L196 62.2 L248 34.1\" fill=\"none\" stroke=\"var(--vena)\" stroke-width=\"2.2\" stroke-linejoin=\"round\"></path><circle cx=\"40\" cy=\"145.3\" r=\"2.6\" fill=\"var(--vena)\" stroke=\"var(--vena)\" stroke-width=\"1.5\"></circle><circle cx=\"92\" cy=\"117.2\" r=\"2.6\" fill=\"var(--vena)\" stroke=\"var(--vena)\" stroke-width=\"1.5\"></circle><circle cx=\"144\" cy=\"89.7\" r=\"2.6\" fill=\"var(--vena)\" stroke=\"var(--vena)\" stroke-width=\"1.5\"></circle><circle cx=\"196\" cy=\"62.2\" r=\"2.6\" fill=\"var(--vena)\" stroke=\"var(--vena)\" stroke-width=\"1.5\"></circle><circle cx=\"248\" cy=\"34.1\" r=\"2.6\" fill=\"var(--vena)\" stroke=\"var(--vena)\" stroke-width=\"1.5\"></circle></svg><figcaption>Rajah 1 · Graf tenaga kinetik maksimum fotoelektron melawan frekuensi cahaya bagi satu logam</figcaption></figure>",
+  "g1": "<figure class=\"figure\"><svg viewBox=\"0 0 260 194\" role=\"img\" aria-label=\"Graf garis lurus menaik: 0.4 eV pada 6, 0.8 pada 7, 1.2 pada 8, 1.6 pada 9 dan 2.0 eV pada 10 kali 10 kuasa 14 hertz\"><line x1=\"40\" y1=\"150\" x2=\"248\" y2=\"150\" stroke=\"var(--line)\" stroke-width=\"1\"></line><text x=\"35\" y=\"154\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"end\">0</text><line x1=\"40\" y1=\"127.7\" x2=\"248\" y2=\"127.7\" stroke=\"var(--line)\" stroke-width=\"1\"></line><text x=\"35\" y=\"131.7\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"end\">0.4</text><line x1=\"40\" y1=\"105.3\" x2=\"248\" y2=\"105.3\" stroke=\"var(--line)\" stroke-width=\"1\"></line><text x=\"35\" y=\"109.3\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"end\">0.8</text><line x1=\"40\" y1=\"83\" x2=\"248\" y2=\"83\" stroke=\"var(--line)\" stroke-width=\"1\"></line><text x=\"35\" y=\"87\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"end\">1.2</text><line x1=\"40\" y1=\"60.7\" x2=\"248\" y2=\"60.7\" stroke=\"var(--line)\" stroke-width=\"1\"></line><text x=\"35\" y=\"64.7\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"end\">1.6</text><line x1=\"40\" y1=\"38.3\" x2=\"248\" y2=\"38.3\" stroke=\"var(--line)\" stroke-width=\"1\"></line><text x=\"35\" y=\"42.3\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"end\">2</text><line x1=\"40\" y1=\"16\" x2=\"248\" y2=\"16\" stroke=\"var(--line)\" stroke-width=\"1\"></line><text x=\"35\" y=\"20\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"end\">2.4</text><line x1=\"40\" y1=\"16\" x2=\"40\" y2=\"150\" stroke=\"var(--line2)\" stroke-width=\"1.5\"></line><line x1=\"40\" y1=\"150\" x2=\"248\" y2=\"150\" stroke=\"var(--line2)\" stroke-width=\"1.5\"></line><text x=\"40\" y=\"165\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"middle\">6</text><text x=\"92\" y=\"165\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"middle\">7</text><text x=\"144\" y=\"165\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"middle\">8</text><text x=\"196\" y=\"165\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"middle\">9</text><text x=\"248\" y=\"165\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"middle\">10</text><text x=\"144\" y=\"181\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"middle\">Frekuensi cahaya (× 10¹⁴ Hz)</text><path d=\"M40 127.7 L92 105.3 L144 83 L196 60.7 L248 38.3\" fill=\"none\" stroke=\"var(--vena)\" stroke-width=\"2.2\" stroke-linejoin=\"round\"></path><circle cx=\"40\" cy=\"127.7\" r=\"2.6\" fill=\"var(--vena)\" stroke=\"var(--vena)\" stroke-width=\"1.5\"></circle><circle cx=\"92\" cy=\"105.3\" r=\"2.6\" fill=\"var(--vena)\" stroke=\"var(--vena)\" stroke-width=\"1.5\"></circle><circle cx=\"144\" cy=\"83\" r=\"2.6\" fill=\"var(--vena)\" stroke=\"var(--vena)\" stroke-width=\"1.5\"></circle><circle cx=\"196\" cy=\"60.7\" r=\"2.6\" fill=\"var(--vena)\" stroke=\"var(--vena)\" stroke-width=\"1.5\"></circle><circle cx=\"248\" cy=\"38.3\" r=\"2.6\" fill=\"var(--vena)\" stroke=\"var(--vena)\" stroke-width=\"1.5\"></circle></svg><figcaption>Rajah 1 · Graf tenaga kinetik maksimum fotoelektron melawan frekuensi cahaya bagi satu logam</figcaption></figure>",
   "j1": "<figure class=\"figure jadual-fizik\"><div class=\"tbl-wrap\"><table class=\"tbl\"><thead><tr><th>Logam</th><th>Fungsi kerja (eV)</th></tr></thead><tbody><tr><td>Sesium</td><td>2.1</td></tr><tr><td>Natrium</td><td>2.3</td></tr><tr><td>Zink</td><td>4.3</td></tr><tr><td>Kuprum</td><td>4.7</td></tr></tbody></table></div><figcaption>Jadual 1 · Fungsi kerja beberapa logam</figcaption></figure>"
  },
  "aras": [
@@ -401,27 +401,27 @@ window.BANK["f5b7"] =
    "soalan": [
     {
      "j": "nombor",
-     "t": "Berdasarkan Rajah 1, hitung kecerunan graf dalam eV per 10¹⁴ Hz. Beri jawapan kepada 3 tempat perpuluhan.",
-     "b": 0.415,
-     "tol": 0.0005000000005,
+     "t": "Berdasarkan Rajah 1, hitung kecerunan graf dalam eV per 10¹⁴ Hz. Beri jawapan kepada 1 tempat perpuluhan.",
+     "b": 0.4,
+     "tol": 0.01000000001,
      "suf": "eV per 10¹⁴ Hz",
-     "u": "Kecerunan = (1.73 − 0.07) ÷ (9 − 5) = 1.66 ÷ 4 = 0.415 eV per 10¹⁴ Hz."
+     "u": "Kecerunan = (2.0 − 0.4) ÷ (10 − 6) = 1.6 ÷ 4 = 0.4 eV per 10¹⁴ Hz."
     },
     {
      "j": "nombor",
-     "t": "Berdasarkan Rajah 1 dan soalan tadi, tukarkan kecerunan kepada pemalar Planck dalam unit 10⁻³⁴ J s. Beri jawapan kepada 2 tempat perpuluhan.",
-     "b": 6.64,
-     "tol": 0.005000000005,
+     "t": "Berdasarkan Rajah 1 dan soalan tadi, tukarkan kecerunan kepada pemalar Planck dalam unit 10⁻³⁴ J s. Beri jawapan kepada 1 tempat perpuluhan.",
+     "b": 6.4,
+     "tol": 0.03000000003,
      "suf": "× 10⁻³⁴ J s",
-     "u": "h = 0.415 × 1.6 × 10⁻¹⁹ ÷ 10¹⁴ = 6.64 × 10⁻³⁴ J s."
+     "u": "h = 0.4 × 1.6 × 10⁻¹⁹ ÷ 10¹⁴ = 6.4 × 10⁻³⁴ J s, hampir dengan nilai sebenar 6.63 × 10⁻³⁴ J s (data eksperimen sekolah)."
     },
     {
      "j": "nombor",
      "t": "Berdasarkan Rajah 1, anggarkan frekuensi ambang dengan mengekstrapolasi graf ke K = 0. Beri jawapan dalam unit 10¹⁴ Hz kepada 1 tempat perpuluhan.",
-     "b": 4.8,
+     "b": 5,
      "tol": 0.05000000005,
      "suf": "× 10¹⁴ Hz",
-     "u": "f₀ = 5 − 0.07 ÷ 0.415 = 4.83 ≈ 4.8 × 10¹⁴ Hz."
+     "u": "f₀ = 6 − 0.4 ÷ 0.4 = 5.0 × 10¹⁴ Hz."
     },
     {
      "j": "nombor",
@@ -429,7 +429,7 @@ window.BANK["f5b7"] =
      "b": 2,
      "tol": 0.05000000005,
      "suf": "eV",
-     "u": "W = hf₀ = 0.415 × 4.83 = 2.0 eV (atau pintasan-K yang diekstrapolasi = −2.0 eV)."
+     "u": "W = hf₀ = 0.4 × 5.0 = 2.0 eV (atau pintasan-K yang diekstrapolasi = −2.0 eV)."
     },
     {
      "j": "pilih",
@@ -486,11 +486,11 @@ window.BANK["f5b7"] =
     "p": [
      "2.0 V",
      "7.0 V",
-     "0.90 V",
-     "0.07 V"
+     "0.80 V",
+     "0.40 V"
     ],
     "b": 2,
-    "u": "eV(henti) = K(maks) = 0.90 eV, jadi voltan henti = 0.90 V."
+    "u": "eV(henti) = K(maks) = 0.80 eV, jadi voltan henti = 0.80 V."
    }
   },
   {

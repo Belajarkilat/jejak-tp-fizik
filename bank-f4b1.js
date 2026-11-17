@@ -40,7 +40,7 @@ window.BANK["f4b1"] =
  },
  "lampiran": {
   "j1": "<figure class=\"figure jadual-fizik\"><div class=\"tbl-wrap\"><table class=\"tbl\"><thead><tr><th>Unit imperial</th><th>Nilai dalam unit S.I.</th></tr></thead><tbody><tr><td>1 inci</td><td>2.54 cm</td></tr><tr><td>1 kaki</td><td>30.48 cm</td></tr><tr><td>1 batu</td><td>1.609 km</td></tr><tr><td>1 psi</td><td>6.895 kPa</td></tr></tbody></table></div><figcaption>Jadual 1 · Faktor penukaran unit imperial kepada unit S.I.</figcaption></figure>",
-  "g1": "<figure class=\"figure\"><svg viewBox=\"0 0 260 194\" role=\"img\" aria-label=\"Graf garis lurus: panjang spring 5.0 cm pada 0 g, naik 2.0 cm bagi setiap 100 g, hingga 15.0 cm pada 500 g\"><line x1=\"40\" y1=\"150\" x2=\"248\" y2=\"150\" stroke=\"var(--line)\" stroke-width=\"1\"></line><text x=\"35\" y=\"154\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"end\">0</text><line x1=\"40\" y1=\"116.5\" x2=\"248\" y2=\"116.5\" stroke=\"var(--line)\" stroke-width=\"1\"></line><text x=\"35\" y=\"120.5\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"end\">4</text><line x1=\"40\" y1=\"83\" x2=\"248\" y2=\"83\" stroke=\"var(--line)\" stroke-width=\"1\"></line><text x=\"35\" y=\"87\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"end\">8</text><line x1=\"40\" y1=\"49.5\" x2=\"248\" y2=\"49.5\" stroke=\"var(--line)\" stroke-width=\"1\"></line><text x=\"35\" y=\"53.5\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"end\">12</text><line x1=\"40\" y1=\"16\" x2=\"248\" y2=\"16\" stroke=\"var(--line)\" stroke-width=\"1\"></line><text x=\"35\" y=\"20\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"end\">16</text><line x1=\"40\" y1=\"16\" x2=\"40\" y2=\"150\" stroke=\"var(--line2)\" stroke-width=\"1.5\"></line><line x1=\"40\" y1=\"150\" x2=\"248\" y2=\"150\" stroke=\"var(--line2)\" stroke-width=\"1.5\"></line><text x=\"40\" y=\"165\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"middle\">0</text><text x=\"81.6\" y=\"165\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"middle\">100</text><text x=\"123.2\" y=\"165\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"middle\">200</text><text x=\"164.8\" y=\"165\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"middle\">300</text><text x=\"206.4\" y=\"165\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"middle\">400</text><text x=\"248\" y=\"165\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"middle\">500</text><text x=\"144\" y=\"181\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"middle\">Jisim beban (g)</text><path d=\"M40 108.1 L81.6 91.4 L123.2 74.6 L164.8 57.9 L206.4 41.1 L248 24.4\" fill=\"none\" stroke=\"var(--vena)\" stroke-width=\"2.2\" stroke-linejoin=\"round\"></path><circle cx=\"40\" cy=\"108.1\" r=\"2.6\" fill=\"var(--vena)\" stroke=\"var(--vena)\" stroke-width=\"1.5\"></circle><circle cx=\"81.6\" cy=\"91.4\" r=\"2.6\" fill=\"var(--vena)\" stroke=\"var(--vena)\" stroke-width=\"1.5\"></circle><circle cx=\"123.2\" cy=\"74.6\" r=\"2.6\" fill=\"var(--vena)\" stroke=\"var(--vena)\" stroke-width=\"1.5\"></circle><circle cx=\"164.8\" cy=\"57.9\" r=\"2.6\" fill=\"var(--vena)\" stroke=\"var(--vena)\" stroke-width=\"1.5\"></circle><circle cx=\"206.4\" cy=\"41.1\" r=\"2.6\" fill=\"var(--vena)\" stroke=\"var(--vena)\" stroke-width=\"1.5\"></circle><circle cx=\"248\" cy=\"24.4\" r=\"2.6\" fill=\"var(--vena)\" stroke=\"var(--vena)\" stroke-width=\"1.5\"></circle></svg><figcaption>Rajah 1 · Panjang spring melawan jisim beban</figcaption></figure>",
+  "g1": "<figure class=\"figure\"><svg viewBox=\"0 0 260 194\" role=\"img\" aria-label=\"Graf garis lurus: panjang spring 4.0 cm pada 0 g, naik 2.0 cm bagi setiap 100 g, hingga 14.0 cm pada 500 g\"><line x1=\"40\" y1=\"150\" x2=\"248\" y2=\"150\" stroke=\"var(--line)\" stroke-width=\"1\"></line><text x=\"35\" y=\"154\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"end\">0</text><line x1=\"40\" y1=\"133.3\" x2=\"248\" y2=\"133.3\" stroke=\"var(--line)\" stroke-width=\"1\"></line><text x=\"35\" y=\"137.3\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"end\">2</text><line x1=\"40\" y1=\"116.5\" x2=\"248\" y2=\"116.5\" stroke=\"var(--line)\" stroke-width=\"1\"></line><text x=\"35\" y=\"120.5\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"end\">4</text><line x1=\"40\" y1=\"99.8\" x2=\"248\" y2=\"99.8\" stroke=\"var(--line)\" stroke-width=\"1\"></line><text x=\"35\" y=\"103.8\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"end\">6</text><line x1=\"40\" y1=\"83\" x2=\"248\" y2=\"83\" stroke=\"var(--line)\" stroke-width=\"1\"></line><text x=\"35\" y=\"87\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"end\">8</text><line x1=\"40\" y1=\"66.3\" x2=\"248\" y2=\"66.3\" stroke=\"var(--line)\" stroke-width=\"1\"></line><text x=\"35\" y=\"70.3\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"end\">10</text><line x1=\"40\" y1=\"49.5\" x2=\"248\" y2=\"49.5\" stroke=\"var(--line)\" stroke-width=\"1\"></line><text x=\"35\" y=\"53.5\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"end\">12</text><line x1=\"40\" y1=\"32.8\" x2=\"248\" y2=\"32.8\" stroke=\"var(--line)\" stroke-width=\"1\"></line><text x=\"35\" y=\"36.8\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"end\">14</text><line x1=\"40\" y1=\"16\" x2=\"248\" y2=\"16\" stroke=\"var(--line)\" stroke-width=\"1\"></line><text x=\"35\" y=\"20\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"end\">16</text><line x1=\"40\" y1=\"16\" x2=\"40\" y2=\"150\" stroke=\"var(--line2)\" stroke-width=\"1.5\"></line><line x1=\"40\" y1=\"150\" x2=\"248\" y2=\"150\" stroke=\"var(--line2)\" stroke-width=\"1.5\"></line><text x=\"40\" y=\"165\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"middle\">0</text><text x=\"81.6\" y=\"165\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"middle\">100</text><text x=\"123.2\" y=\"165\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"middle\">200</text><text x=\"164.8\" y=\"165\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"middle\">300</text><text x=\"206.4\" y=\"165\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"middle\">400</text><text x=\"248\" y=\"165\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"middle\">500</text><text x=\"144\" y=\"181\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"middle\">Jisim beban (g)</text><path d=\"M40 116.5 L81.6 99.8 L123.2 83 L164.8 66.3 L206.4 49.5 L248 32.8\" fill=\"none\" stroke=\"var(--vena)\" stroke-width=\"2.2\" stroke-linejoin=\"round\"></path><circle cx=\"40\" cy=\"116.5\" r=\"2.6\" fill=\"var(--vena)\" stroke=\"var(--vena)\" stroke-width=\"1.5\"></circle><circle cx=\"81.6\" cy=\"99.8\" r=\"2.6\" fill=\"var(--vena)\" stroke=\"var(--vena)\" stroke-width=\"1.5\"></circle><circle cx=\"123.2\" cy=\"83\" r=\"2.6\" fill=\"var(--vena)\" stroke=\"var(--vena)\" stroke-width=\"1.5\"></circle><circle cx=\"164.8\" cy=\"66.3\" r=\"2.6\" fill=\"var(--vena)\" stroke=\"var(--vena)\" stroke-width=\"1.5\"></circle><circle cx=\"206.4\" cy=\"49.5\" r=\"2.6\" fill=\"var(--vena)\" stroke=\"var(--vena)\" stroke-width=\"1.5\"></circle><circle cx=\"248\" cy=\"32.8\" r=\"2.6\" fill=\"var(--vena)\" stroke=\"var(--vena)\" stroke-width=\"1.5\"></circle></svg><figcaption>Rajah 1 · Panjang spring melawan jisim beban</figcaption></figure>",
   "j2": "<figure class=\"figure jadual-fizik\"><div class=\"tbl-wrap\"><table class=\"tbl\"><thead><tr><th>Panjang, l (m)</th><th>Masa 20 ayunan (s)</th><th>Tempoh, T (s)</th><th>T<sup>2</sup> (s<sup>2</sup>)</th></tr></thead><tbody><tr><td>0.20</td><td>17.9</td><td>0.895</td><td>0.801</td></tr><tr><td>0.40</td><td>25.4</td><td>1.270</td><td>1.613</td></tr><tr><td>0.60</td><td>31.1</td><td>?</td><td>?</td></tr><tr><td>0.80</td><td>35.9</td><td>1.795</td><td>3.222</td></tr><tr><td>1.00</td><td>40.1</td><td>2.005</td><td>4.020</td></tr></tbody></table></div><figcaption>Jadual 2 · Masa 20 ayunan bandul ringkas bagi panjang berbeza</figcaption></figure>"
  },
  "aras": [
@@ -436,10 +436,10 @@ window.BANK["f4b1"] =
     {
      "j": "nombor",
      "t": "Berdasarkan Rajah 1, berapakah panjang asal spring tanpa beban?",
-     "b": 5,
+     "b": 4,
      "tol": 0.001000000001,
      "suf": "cm",
-     "u": "Pintasan-y graf ialah 5.0 cm, iaitu panjang spring apabila jisim beban sifar."
+     "u": "Pintasan-y graf ialah 4.0 cm, iaitu panjang spring apabila jisim beban sifar."
     },
     {
      "j": "nombor",
@@ -447,23 +447,23 @@ window.BANK["f4b1"] =
      "b": 0.02,
      "tol": 0.001000000001,
      "suf": "cm g⁻¹",
-     "u": "Kecerunan = (15.0 − 5.0) cm ÷ (500 − 0) g = 0.02 cm g⁻¹."
+     "u": "Kecerunan = (14.0 − 4.0) cm ÷ (500 − 0) g = 0.02 cm g⁻¹."
     },
     {
      "j": "nombor",
      "t": "Berdasarkan Rajah 1, gunakan interpolasi untuk menentukan panjang spring apabila jisim beban ialah 250 g.",
-     "b": 10,
+     "b": 9,
      "tol": 0.001000000001,
      "suf": "cm",
-     "u": "Pada 250 g, graf memberi 5.0 + 0.02 × 250 = 10.0 cm."
+     "u": "Pada 250 g, graf memberi 4.0 + 0.02 × 250 = 9.0 cm."
     },
     {
      "j": "nombor",
      "t": "Berdasarkan Rajah 1, gunakan ekstrapolasi untuk meramal panjang spring apabila jisim beban ialah 600 g.",
-     "b": 17,
+     "b": 16,
      "tol": 0.001000000001,
      "suf": "cm",
-     "u": "Lanjutkan garis: 5.0 + 0.02 × 600 = 17.0 cm, dengan andaian had kenyal belum dilepasi."
+     "u": "Lanjutkan garis: 4.0 + 0.02 × 600 = 16.0 cm, dengan andaian had kenyal belum dilepasi."
     },
     {
      "j": "nombor",
@@ -471,7 +471,7 @@ window.BANK["f4b1"] =
      "b": 6,
      "tol": 0.001000000001,
      "suf": "cm",
-     "u": "Pemanjangan = panjang akhir − panjang asal = 11.0 − 5.0 = 6.0 cm."
+     "u": "Pemanjangan = panjang akhir − panjang asal = 10.0 − 4.0 = 6.0 cm."
     },
     {
      "j": "pilih",
