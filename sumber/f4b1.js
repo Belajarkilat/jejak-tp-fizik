@@ -116,7 +116,7 @@ module.exports = {
      kapsyen:"Rajah 1 · Panjang spring melawan jisim beban",
      alt:"Graf garis lurus: panjang spring 5.0 cm pada 0 g, naik 2.0 cm bagi setiap 100 g, hingga 15.0 cm pada 500 g"},
    j2:jadual(2, "Masa 20 ayunan bandul ringkas bagi panjang berbeza",
-     ["Panjang, l (m)", "Masa 20 ayunan (s)", "Tempoh, T (s)", "T^2 (s^2)"],
+     ["Panjang, l (m)", "Masa 20 ayunan (s)", "Tempoh, T (s)", "T^{2} (s^{2})"],
      [["0.20","17.9","0.895","0.801"],["0.40","25.4","1.270","1.613"],["0.60","31.1","?","?"],["0.80","35.9","1.795","3.222"],["1.00","40.1","2.005","4.020"]])
   },
   aras:ARAS

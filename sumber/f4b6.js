@@ -110,10 +110,10 @@ module.exports = {
    tiada:"{n} belum menunjukkan bukti penguasaan yang mencukupi bagi bab Cahaya dan Optik. Cadangan: ulang hentian pertama dan perhatikan pensel dalam segelas air bersama rakan."
   },
   lampiran:{
-   r1:{jenis:"sinar", mod:"pembiasan", sudutTuju:45, indeks:1.5, atas:"Udara", bawah:"Kaca",
+   r1:{jenis:"sinar", mod:"pembiasan", sorokNilai:true, sudutTuju:45, indeks:1.5, atas:"Udara", bawah:"Kaca",
      kapsyen:"Rajah 1 · Sinar cahaya memasuki blok kaca",
      alt:"Sinar cahaya dari udara memasuki kaca pada sudut tuju 45 darjah dan dibias mendekati normal"},
-   r2:{jenis:"kanta", jenisKanta:"cembung", f:3, u:4.5, ho:0.8, skala:11,
+   r2:{jenis:"kanta", jenisKanta:"cembung", sorokNilai:true, f:3, u:4.5, ho:0.8, skala:11,
      kapsyen:"Rajah 2 · Pembentukan imej oleh kanta cembung (f = 3.0 cm)",
      alt:"Objek 4.5 cm dari kanta cembung berpanjang fokus 3.0 cm membentuk imej nyata, songsang dan diperbesar 9.0 cm di sebelah lain kanta"},
    j1:jadual(1, "Indeks biasan beberapa bahan",

@@ -110,12 +110,12 @@ module.exports = {
    tiada:"{n} belum menunjukkan bukti penguasaan yang mencukupi bagi bab Haba. Cadangan: ulang hentian pertama dan perhatikan suhu air dan ais di dapur bersama keluarga."
   },
   lampiran:{
-   g1:{jenis:"graf", x:[0,2,4,6,8,10,12,14,16,18,20,22,24,26,28], setiap:2, xLabel:"Masa (minit)", titik:true, yMin:-20, yMaks:120,
+   g1:{jenis:"graf", x:[0,2,4,6,8,10,12,14,16,18,20,22,24,26,28], setiap:2, grid:7, xLabel:"Masa (minit)", titik:true, yMin:-20, yMaks:120,
      siri:[{label:"Suhu (°C)", y:[-20,0,0,0,0,25,50,75,100,100,100,100,100,100,120], warna:"merah"}],
      kapsyen:"Rajah 1 · Lengkung pemanasan ais dengan pemanas 500 W",
      alt:"Graf suhu melawan masa: suhu naik dari −20 ke 0 darjah Celsius dalam 2 minit, kekal 0 dari minit 2 hingga 8, naik ke 100 pada minit 16, kekal 100 hingga minit 26, kemudian naik ke 120 pada minit 28"},
    j1:jadual(1, "Tekanan dan isi padu udara terperangkap pada suhu bilik",
-     ["Tekanan, p (kPa)", "Isi padu, V (cm^3)"],
+     ["Tekanan, p (kPa)", "Isi padu, V (cm^{3})"],
      [["100","60"],["120","50"],["150","40"],["200","30"],["?","20"]])
   },
   aras:ARAS

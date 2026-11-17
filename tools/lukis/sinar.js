@@ -88,7 +88,8 @@ function pembiasan(spec){
 
   isi += A.teks(18, py - 8, spec.atas || "Udara", { saiz: SAIZ, warna: "tinta2" });
   isi += A.teks(18, py + 18, spec.bawah || "Kaca", { saiz: SAIZ, warna: "tinta2" });
-  isi += A.teks(LEBAR - 16, py + L + 24, `i = ${i}° · r = ${rDarjah}°`, { saiz: SAIZ, kanan: true, warna: "tinta2" });
+  /* sorokNilai: jangan paparkan r apabila soalan meminta murid mengiranya. */
+  isi += A.teks(LEBAR - 16, py + L + 24, spec.sorokNilai ? `i = ${i}°` : `i = ${i}° · r = ${rDarjah}°`, { saiz: SAIZ, kanan: true, warna: "tinta2" });
   return { isi, lebar: LEBAR, tinggi: py + L + 34, jawapan: { sudutBiasan: rDarjah } };
 }
 

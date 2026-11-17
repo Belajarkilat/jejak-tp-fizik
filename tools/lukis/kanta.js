@@ -123,7 +123,8 @@ function lensa(spec){
   }
 
   isi += A.teks(cx, cy + 30, jenis === "cembung" ? "Kanta cembung" : "Kanta cekung", { saiz: SAIZ, tengah: true, warna: "tinta2" });
-  isi += A.teks(LEBAR / 2, 160, labelImej, { saiz: 11, tengah: true, warna: "tinta3" });
+  /* sorokNilai: label v, m dan ciri imej memberi jawapan jika soalan memintanya. */
+  if(!spec.sorokNilai) isi += A.teks(LEBAR / 2, 160, labelImej, { saiz: 11, tengah: true, warna: "tinta3" });
 
   return {
     isi, lebar: LEBAR, tinggi: tinggiCanvas,
