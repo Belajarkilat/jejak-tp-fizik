@@ -64,12 +64,12 @@ const ARAS = [
  bos:{j:"pilih",t:"Berdasarkan Jadual 1, mengapakah intan berkilau lebih daripada kaca yang dipotong dengan bentuk sama?",p:["Sudut genting intan lebih kecil","Intan lebih keras daripada kaca","Intan menyerap lebih banyak cahaya","Indeks biasan intan lebih kecil"],b:0,u:"Dengan c ≈ 24°, kebanyakan cahaya dalam intan mengalami pantulan dalam penuh berulang kali sebelum keluar."}},
 
 {n:5, tempat:"Kedai Optik", sk:"6.5 Alatan optik · 6.6 Cermin sfera", lampiran:null,
- kadNama:"Teleskop", kadEm:"\u{1F52D}", kadFakta:"Teleskop astronomi: pembesaran M = f_o ÷ f_e, panjang teleskop pada pelarasan normal = f_o + f_e.",
+ kadNama:"Teleskop", kadEm:"\u{1F52D}", kadFakta:"Teleskop astronomi: pembesaran M = fₒ ÷ fₑ, panjang teleskop pada pelarasan normal = fₒ + fₑ.",
  bosKadNama:"Cermin Sfera", bosKadEm:"\u{1FA9E}", bosKadFakta:"Cermin cekung menumpukan cahaya (lampu suluh, dapur suria). Cermin cembung mencapahkan cahaya (cermin keselamatan jalan).",
  soalan:[
- {j:"nombor",t:"Teleskop astronomi mempunyai kanta objek f = 100 cm dan kanta mata f = 5 cm. Hitung pembesarannya pada pelarasan normal.",b:20,tol:0.05,suf:"kali",u:"M = f_o ÷ f_e = 100 ÷ 5 = 20."},
- {j:"nombor",t:"Bagi teleskop dalam soalan tadi, hitung panjang teleskop pada pelarasan normal.",b:105,tol:0.1,suf:"cm",u:"Panjang = f_o + f_e = 100 + 5 = 105 cm."},
- {j:"pilih",t:"Untuk teleskop berkuasa tinggi, gabungan kanta manakah PALING sesuai?",p:["Kanta objek f panjang, kanta mata f pendek","Kanta objek f pendek, kanta mata f panjang","Kedua-dua kanta f pendek","Kedua-dua kanta f sama panjang"],b:0,u:"M = f_o ÷ f_e menjadi besar apabila f_o panjang dan f_e pendek."},
+ {j:"nombor",t:"Teleskop astronomi mempunyai kanta objek f = 100 cm dan kanta mata f = 5 cm. Hitung pembesarannya pada pelarasan normal.",b:20,tol:0.05,suf:"kali",u:"M = fₒ ÷ fₑ = 100 ÷ 5 = 20."},
+ {j:"nombor",t:"Bagi teleskop dalam soalan tadi, hitung panjang teleskop pada pelarasan normal.",b:105,tol:0.1,suf:"cm",u:"Panjang = fₒ + fₑ = 100 + 5 = 105 cm."},
+ {j:"pilih",t:"Untuk teleskop berkuasa tinggi, gabungan kanta manakah PALING sesuai?",p:["Kanta objek f panjang, kanta mata f pendek","Kanta objek f pendek, kanta mata f panjang","Kedua-dua kanta f pendek","Kedua-dua kanta f sama panjang"],b:0,u:"M = fₒ ÷ fₑ menjadi besar apabila fₒ panjang dan fₑ pendek."},
  {j:"pilih",t:"Bagi mikroskop majmuk, gabungan kanta manakah betul?",p:["Kedua-dua kanta f pendek","Kanta objek f panjang, kanta mata f pendek","Kedua-dua kanta f panjang","Kanta cekung sebagai kanta objek"],b:0,u:"Mikroskop menggunakan kanta cembung berpanjang fokus pendek untuk kanta objek dan kanta mata."},
  {j:"nombor",t:"Objek diletakkan 30 cm di hadapan cermin cekung berpanjang fokus 10 cm. Hitung jarak imej.",b:15,tol:0.05,suf:"cm",u:"1/v = 1/10 − 1/30 = 1/15, jadi v = 15 cm. Imej nyata, songsang dan diperkecil."},
  {j:"pilih",t:"Cermin di selekoh tajam jalan bukit menggunakan cermin cembung kerana:",p:["Medan penglihatannya luas","Imejnya diperbesar","Imejnya nyata dan songsang","Ia menumpukan cahaya kenderaan"],b:0,u:"Pemandu dapat melihat kenderaan dari arah bertentangan dalam kawasan yang luas."},
@@ -83,7 +83,7 @@ const ARAS = [
  soalan:[
  {j:"pilih",t:"Anda mereka dapur suria untuk perkhemahan. Di manakah periuk perlu diletakkan?",p:["Pada titik fokus cermin cekung","Pada pusat kelengkungan cermin cembung","Di belakang cermin cekung","Sejauh mungkin dari cermin"],b:0,u:"Sinar Matahari yang selari ditumpukan ke titik fokus, jadi haba paling tinggi di situ."},
  {j:"pilih",t:"Anda membina periskop daripada kotak jus untuk melihat dari balik tembok. Pada sudut berapakah dua prisma (atau cermin) perlu dipasang?",p:["45° kepada paksi kotak","90° kepada paksi kotak","30° kepada paksi kotak","60° kepada paksi kotak"],b:0,u:"Sudut 45° membelokkan cahaya 90° pada setiap pantulan, jadi cahaya keluar selari dengan arah masuk."},
- {j:"nombor",t:"Anda membina teleskop ringkas dengan pembesaran 25 kali. Kanta objek yang ada berpanjang fokus 50 cm. Berapakah panjang fokus kanta mata yang diperlukan?",b:2,tol:0.02,suf:"cm",u:"f_e = f_o ÷ M = 50 ÷ 25 = 2.0 cm."},
+ {j:"nombor",t:"Anda membina teleskop ringkas dengan pembesaran 25 kali. Kanta objek yang ada berpanjang fokus 50 cm. Berapakah panjang fokus kanta mata yang diperlukan?",b:2,tol:0.02,suf:"cm",u:"fₑ = fₒ ÷ M = 50 ÷ 25 = 2.0 cm."},
  {j:"pilih",t:"Anda mahu menyalurkan cahaya Matahari ke bilik yang tiada tingkap. Reka bentuk manakah PALING berkesan?",p:["Tiub berlapik permukaan berkilat","Paip PVC hitam yang panjang","Kotak kayu bertutup rapat","Lapisan kain gelap di siling"],b:0,u:"Permukaan berkilat memantulkan cahaya berulang kali di sepanjang tiub ke dalam bilik."},
  {j:"pilih",t:"Anda mahu kanta pembesar yang memberi pembesaran lebih tinggi. Pilihan kanta cembung manakah PALING sesuai?",p:["Panjang fokus lebih pendek","Panjang fokus lebih panjang","Kanta cekung yang nipis","Kanta yang tidak melengkung"],b:0,u:"Kanta cembung yang lebih tebal dan berpanjang fokus pendek menghasilkan pembesaran lebih tinggi."},
  {j:"pilih",t:"Perpustakaan sekolah mahu cermin keselamatan supaya pustakawan nampak semua rak. Cermin manakah PALING sesuai?",p:["Cermin cembung di sudut siling","Cermin cekung di tengah dinding","Cermin satah kecil di meja","Cermin cekung di atas pintu"],b:0,u:"Cermin cembung memberi medan penglihatan paling luas."},
@@ -92,7 +92,7 @@ const ARAS = [
  bos:{j:"buka",
   t:"Reka satu alat optik ringkas untuk membantu orang di sekeliling anda (contoh: periskop untuk murid pendek di majlis, teleskop untuk kelab astronomi, dapur suria untuk kampung, cahaya tiub untuk stor gelap).",
   arahan:"Nyatakan tujuan, komponen optik yang dipilih (kanta cembung/cekung, cermin cekung/cembung atau prisma) dan panjang fokusnya, fenomena cahaya yang digunakan, lakaran atau penerangan susunan komponen, SATU pengiraan (contoh: pembesaran atau jarak imej), cara menguji, dan SATU pertimbangan kos atau keselamatan.",
-  u:"Jawapan TP6 yang kukuh memilih komponen yang sesuai dengan tujuan, menerangkan fenomena (pembiasan, pantulan, pantulan dalam penuh) dengan betul, memberi susunan yang boleh dibina, menyertakan pengiraan yang tepat seperti M = f_o ÷ f_e atau 1/f = 1/u + 1/v, mencadangkan ujian, serta mempertimbangkan kos bahan dan keselamatan mata."}}
+  u:"Jawapan TP6 yang kukuh memilih komponen yang sesuai dengan tujuan, menerangkan fenomena (pembiasan, pantulan, pantulan dalam penuh) dengan betul, memberi susunan yang boleh dibina, menyertakan pengiraan yang tepat seperti M = fₒ ÷ fₑ atau 1/f = 1/u + 1/v, mencadangkan ujian, serta mempertimbangkan kos bahan dan keselamatan mata."}}
 ];
 
 module.exports = {

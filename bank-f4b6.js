@@ -497,7 +497,7 @@ window.BANK["f4b6"] =
    "lampiran": null,
    "kadNama": "Teleskop",
    "kadEm": "🔭",
-   "kadFakta": "Teleskop astronomi: pembesaran M = f_o ÷ f_e, panjang teleskop pada pelarasan normal = f_o + f_e.",
+   "kadFakta": "Teleskop astronomi: pembesaran M = fₒ ÷ fₑ, panjang teleskop pada pelarasan normal = fₒ + fₑ.",
    "bosKadNama": "Cermin Sfera",
    "bosKadEm": "🪞",
    "bosKadFakta": "Cermin cekung menumpukan cahaya (lampu suluh, dapur suria). Cermin cembung mencapahkan cahaya (cermin keselamatan jalan).",
@@ -508,7 +508,7 @@ window.BANK["f4b6"] =
      "b": 20,
      "tol": 0.001000000001,
      "suf": "kali",
-     "u": "M = f_o ÷ f_e = 100 ÷ 5 = 20."
+     "u": "M = fₒ ÷ fₑ = 100 ÷ 5 = 20."
     },
     {
      "j": "nombor",
@@ -516,7 +516,7 @@ window.BANK["f4b6"] =
      "b": 105,
      "tol": 0.001000000001,
      "suf": "cm",
-     "u": "Panjang = f_o + f_e = 100 + 5 = 105 cm."
+     "u": "Panjang = fₒ + fₑ = 100 + 5 = 105 cm."
     },
     {
      "j": "pilih",
@@ -528,7 +528,7 @@ window.BANK["f4b6"] =
       "Kedua-dua kanta f sama panjang"
      ],
      "b": 2,
-     "u": "M = f_o ÷ f_e menjadi besar apabila f_o panjang dan f_e pendek."
+     "u": "M = fₒ ÷ fₑ menjadi besar apabila fₒ panjang dan fₑ pendek."
     },
     {
      "j": "pilih",
@@ -645,7 +645,7 @@ window.BANK["f4b6"] =
      "b": 2,
      "tol": 0.001000000001,
      "suf": "cm",
-     "u": "f_e = f_o ÷ M = 50 ÷ 25 = 2.0 cm."
+     "u": "fₑ = fₒ ÷ M = 50 ÷ 25 = 2.0 cm."
     },
     {
      "j": "pilih",
@@ -715,7 +715,7 @@ window.BANK["f4b6"] =
     "j": "buka",
     "t": "Reka satu alat optik ringkas untuk membantu orang di sekeliling anda (contoh: periskop untuk murid pendek di majlis, teleskop untuk kelab astronomi, dapur suria untuk kampung, cahaya tiub untuk stor gelap).",
     "arahan": "Nyatakan tujuan, komponen optik yang dipilih (kanta cembung/cekung, cermin cekung/cembung atau prisma) dan panjang fokusnya, fenomena cahaya yang digunakan, lakaran atau penerangan susunan komponen, SATU pengiraan (contoh: pembesaran atau jarak imej), cara menguji, dan SATU pertimbangan kos atau keselamatan.",
-    "u": "Jawapan TP6 yang kukuh memilih komponen yang sesuai dengan tujuan, menerangkan fenomena (pembiasan, pantulan, pantulan dalam penuh) dengan betul, memberi susunan yang boleh dibina, menyertakan pengiraan yang tepat seperti M = f_o ÷ f_e atau 1/f = 1/u + 1/v, mencadangkan ujian, serta mempertimbangkan kos bahan dan keselamatan mata."
+    "u": "Jawapan TP6 yang kukuh memilih komponen yang sesuai dengan tujuan, menerangkan fenomena (pembiasan, pantulan, pantulan dalam penuh) dengan betul, memberi susunan yang boleh dibina, menyertakan pengiraan yang tepat seperti M = fₒ ÷ fₑ atau 1/f = 1/u + 1/v, mencadangkan ujian, serta mempertimbangkan kos bahan dan keselamatan mata."
    }
   }
  ]

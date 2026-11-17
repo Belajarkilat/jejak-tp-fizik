@@ -124,7 +124,7 @@ window.BANK["f5b2"] =
       "Ketumpatan bendalir"
      ],
      "b": 1,
-     "u": "F_apung = ρVg, dengan V isi padu bendalir yang disesarkan."
+     "u": "F(apung) = ρVg, dengan V isi padu bendalir yang disesarkan."
     },
     {
      "j": "pilih",
@@ -421,7 +421,7 @@ window.BANK["f5b2"] =
      "b": 800,
      "tol": 0.001000000001,
      "suf": "kg m⁻³",
-     "u": "ρ_X = F_X ÷ (Vg) = 1.6 ÷ (2.04 × 10⁻⁴ × 9.81) = 800 kg m⁻³. Atau: ρ_X = 1 000 × 1.6 ÷ 2.0."
+     "u": "ρ(X) = F(X) ÷ (Vg) = 1.6 ÷ (2.04 × 10⁻⁴ × 9.81) = 800 kg m⁻³. Atau: ρ(X) = 1 000 × 1.6 ÷ 2.0."
     },
     {
      "j": "pilih",

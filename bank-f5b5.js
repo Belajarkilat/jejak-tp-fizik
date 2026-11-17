@@ -39,7 +39,7 @@ window.BANK["f5b5"] =
   "tiada": "{n} belum menunjukkan bukti penguasaan yang mencukupi bagi bab Elektronik. Cadangan: ulang hentian pertama dan perhatikan lampu jalan yang menyala sendiri pada waktu senja."
  },
  "lampiran": {
-  "g1": "<figure class=\"figure\"><svg viewBox=\"0 0 260 194\" role=\"img\" aria-label=\"Graf garis lurus melalui asalan: arus pengumpul bertambah 1 mA bagi setiap 10 mikroampere arus tapak, hingga 4 mA pada 40 mikroampere\"><line x1=\"40\" y1=\"150\" x2=\"248\" y2=\"150\" stroke=\"var(--line)\" stroke-width=\"1\"></line><text x=\"35\" y=\"154\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"end\">0</text><line x1=\"40\" y1=\"116.5\" x2=\"248\" y2=\"116.5\" stroke=\"var(--line)\" stroke-width=\"1\"></line><text x=\"35\" y=\"120.5\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"end\">1.25</text><line x1=\"40\" y1=\"83\" x2=\"248\" y2=\"83\" stroke=\"var(--line)\" stroke-width=\"1\"></line><text x=\"35\" y=\"87\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"end\">2.5</text><line x1=\"40\" y1=\"49.5\" x2=\"248\" y2=\"49.5\" stroke=\"var(--line)\" stroke-width=\"1\"></line><text x=\"35\" y=\"53.5\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"end\">3.75</text><line x1=\"40\" y1=\"16\" x2=\"248\" y2=\"16\" stroke=\"var(--line)\" stroke-width=\"1\"></line><text x=\"35\" y=\"20\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"end\">5</text><line x1=\"40\" y1=\"16\" x2=\"40\" y2=\"150\" stroke=\"var(--line2)\" stroke-width=\"1.5\"></line><line x1=\"40\" y1=\"150\" x2=\"248\" y2=\"150\" stroke=\"var(--line2)\" stroke-width=\"1.5\"></line><text x=\"40\" y=\"165\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"middle\">0</text><text x=\"92\" y=\"165\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"middle\">10</text><text x=\"144\" y=\"165\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"middle\">20</text><text x=\"196\" y=\"165\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"middle\">30</text><text x=\"248\" y=\"165\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"middle\">40</text><text x=\"144\" y=\"181\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"middle\">Arus tapak, I_B (μA)</text><path d=\"M40 150 L92 123.2 L144 96.4 L196 69.6 L248 42.8\" fill=\"none\" stroke=\"var(--vena)\" stroke-width=\"2.2\" stroke-linejoin=\"round\"></path><circle cx=\"40\" cy=\"150\" r=\"2.6\" fill=\"var(--vena)\" stroke=\"var(--vena)\" stroke-width=\"1.5\"></circle><circle cx=\"92\" cy=\"123.2\" r=\"2.6\" fill=\"var(--vena)\" stroke=\"var(--vena)\" stroke-width=\"1.5\"></circle><circle cx=\"144\" cy=\"96.4\" r=\"2.6\" fill=\"var(--vena)\" stroke=\"var(--vena)\" stroke-width=\"1.5\"></circle><circle cx=\"196\" cy=\"69.6\" r=\"2.6\" fill=\"var(--vena)\" stroke=\"var(--vena)\" stroke-width=\"1.5\"></circle><circle cx=\"248\" cy=\"42.8\" r=\"2.6\" fill=\"var(--vena)\" stroke=\"var(--vena)\" stroke-width=\"1.5\"></circle></svg><figcaption>Rajah 1 · Graf arus pengumpul melawan arus tapak bagi sebuah transistor</figcaption></figure>"
+  "g1": "<figure class=\"figure\"><svg viewBox=\"0 0 260 194\" role=\"img\" aria-label=\"Graf garis lurus melalui asalan: arus pengumpul bertambah 1 mA bagi setiap 10 mikroampere arus tapak, hingga 4 mA pada 40 mikroampere\"><line x1=\"40\" y1=\"150\" x2=\"248\" y2=\"150\" stroke=\"var(--line)\" stroke-width=\"1\"></line><text x=\"35\" y=\"154\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"end\">0</text><line x1=\"40\" y1=\"123.2\" x2=\"248\" y2=\"123.2\" stroke=\"var(--line)\" stroke-width=\"1\"></line><text x=\"35\" y=\"127.2\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"end\">1</text><line x1=\"40\" y1=\"96.4\" x2=\"248\" y2=\"96.4\" stroke=\"var(--line)\" stroke-width=\"1\"></line><text x=\"35\" y=\"100.4\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"end\">2</text><line x1=\"40\" y1=\"69.6\" x2=\"248\" y2=\"69.6\" stroke=\"var(--line)\" stroke-width=\"1\"></line><text x=\"35\" y=\"73.6\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"end\">3</text><line x1=\"40\" y1=\"42.8\" x2=\"248\" y2=\"42.8\" stroke=\"var(--line)\" stroke-width=\"1\"></line><text x=\"35\" y=\"46.8\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"end\">4</text><line x1=\"40\" y1=\"16\" x2=\"248\" y2=\"16\" stroke=\"var(--line)\" stroke-width=\"1\"></line><text x=\"35\" y=\"20\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"end\">5</text><line x1=\"40\" y1=\"16\" x2=\"40\" y2=\"150\" stroke=\"var(--line2)\" stroke-width=\"1.5\"></line><line x1=\"40\" y1=\"150\" x2=\"248\" y2=\"150\" stroke=\"var(--line2)\" stroke-width=\"1.5\"></line><text x=\"40\" y=\"165\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"middle\">0</text><text x=\"92\" y=\"165\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"middle\">10</text><text x=\"144\" y=\"165\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"middle\">20</text><text x=\"196\" y=\"165\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"middle\">30</text><text x=\"248\" y=\"165\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"middle\">40</text><text x=\"144\" y=\"181\" font-family=\"DM Mono,monospace\" font-size=\"11.5\" fill=\"var(--ink3)\" text-anchor=\"middle\">Arus tapak (μA)</text><path d=\"M40 150 L92 123.2 L144 96.4 L196 69.6 L248 42.8\" fill=\"none\" stroke=\"var(--vena)\" stroke-width=\"2.2\" stroke-linejoin=\"round\"></path><circle cx=\"40\" cy=\"150\" r=\"2.6\" fill=\"var(--vena)\" stroke=\"var(--vena)\" stroke-width=\"1.5\"></circle><circle cx=\"92\" cy=\"123.2\" r=\"2.6\" fill=\"var(--vena)\" stroke=\"var(--vena)\" stroke-width=\"1.5\"></circle><circle cx=\"144\" cy=\"96.4\" r=\"2.6\" fill=\"var(--vena)\" stroke=\"var(--vena)\" stroke-width=\"1.5\"></circle><circle cx=\"196\" cy=\"69.6\" r=\"2.6\" fill=\"var(--vena)\" stroke=\"var(--vena)\" stroke-width=\"1.5\"></circle><circle cx=\"248\" cy=\"42.8\" r=\"2.6\" fill=\"var(--vena)\" stroke=\"var(--vena)\" stroke-width=\"1.5\"></circle></svg><figcaption>Rajah 1 · Graf arus pengumpul melawan arus tapak bagi sebuah transistor</figcaption></figure>"
  },
  "aras": [
   {
@@ -299,7 +299,7 @@ window.BANK["f5b5"] =
    "kadFakta": "Tenaga keupayaan elektrik elektron (eV) ditukar sepenuhnya kepada tenaga kinetik apabila elektron dipecutkan.",
    "bosKadNama": "Penguat",
    "bosKadEm": "🔊",
-   "bosKadFakta": "Arus tapak yang kecil mengawal arus pengumpul yang besar. Gandaan arus β = I_C ÷ I_B.",
+   "bosKadFakta": "Arus tapak yang kecil mengawal arus pengumpul yang besar. Gandaan arus β = I(C) ÷ I(B).",
    "soalan": [
     {
      "j": "nombor",
@@ -335,7 +335,7 @@ window.BANK["f5b5"] =
      "b": 100,
      "tol": 0.001000000001,
      "suf": "",
-     "u": "β = I_C ÷ I_B = 2.0 × 10⁻³ ÷ 20 × 10⁻⁶ = 100."
+     "u": "β = I(C) ÷ I(B) = 2.0 × 10⁻³ ÷ 20 × 10⁻⁶ = 100."
     },
     {
      "j": "nombor",
@@ -343,7 +343,7 @@ window.BANK["f5b5"] =
      "b": 3.5,
      "tol": 0.01000000001,
      "suf": "mA",
-     "u": "I_C = βI_B = 100 × 35 μA = 3 500 μA = 3.5 mA."
+     "u": "I(C) = βI(B) = 100 × 35 μA = 3 500 μA = 3.5 mA."
     },
     {
      "j": "nombor",
@@ -351,7 +351,7 @@ window.BANK["f5b5"] =
      "b": 3.535,
      "tol": 0.0005000000005,
      "suf": "mA",
-     "u": "I_E = I_B + I_C = 0.035 + 3.5 = 3.535 mA."
+     "u": "I(E) = I(B) + I(C) = 0.035 + 3.5 = 3.535 mA."
     },
     {
      "j": "pilih",
@@ -392,7 +392,7 @@ window.BANK["f5b5"] =
    "tempat": "Makmal Transistor",
    "sk": "5.3 Menganalisis ciri transistor dan suis automatik",
    "lampiran": "g1",
-   "kadNama": "Graf I_C-I_B",
+   "kadNama": "Graf I(C)-I(B)",
    "kadEm": "📈",
    "kadFakta": "Kecerunan graf arus pengumpul melawan arus tapak memberi gandaan arus transistor.",
    "bosKadNama": "Suis Automatik",
@@ -413,7 +413,7 @@ window.BANK["f5b5"] =
      "b": 2.5,
      "tol": 0.02000000002,
      "suf": "mA",
-     "u": "I_C = 100 × 25 μA = 2.5 mA."
+     "u": "I(C) = 100 × 25 μA = 2.5 mA."
     },
     {
      "j": "pilih",

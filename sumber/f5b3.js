@@ -109,7 +109,7 @@ module.exports = {
    tiada:"{n} belum menunjukkan bukti penguasaan yang mencukupi bagi bab Elektrik. Cadangan: ulang hentian pertama dan baca label kuasa peralatan elektrik di rumah bersama keluarga."
   },
   lampiran:{
-   g1:{jenis:"graf", x:[0,0.1,0.2,0.3,0.4,0.5], xLabel:"Arus, I (A)", titik:true, yMin:0, yMaks:3.5,
+   g1:{jenis:"graf", x:[0,0.1,0.2,0.3,0.4,0.5], xLabel:"Arus, I (A)", titik:true, yMin:0, yMaks:3.5, grid:7,
      siri:[{label:"Beza keupayaan terminal, V (V)", y:[3.0,2.8,2.6,2.4,2.2,2.0], warna:"ungu"}],
      kapsyen:"Rajah 1 · Graf beza keupayaan terminal melawan arus bagi sebiji sel",
      alt:"Graf garis lurus menurun: V ialah 3.0 volt pada arus sifar dan berkurang 0.2 volt bagi setiap 0.1 ampere, hingga 2.0 volt pada 0.5 ampere"},

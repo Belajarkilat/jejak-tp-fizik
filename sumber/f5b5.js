@@ -36,24 +36,24 @@ const ARAS = [
 
 {n:3, tempat:"Bilik Penguat", sk:"5.1 Halaju elektron · 5.3 Transistor sebagai penguat arus", lampiran:null,
  kadNama:"eV = ½mv²", kadEm:"\u{1F680}", kadFakta:"Tenaga keupayaan elektrik elektron (eV) ditukar sepenuhnya kepada tenaga kinetik apabila elektron dipecutkan.",
- bosKadNama:"Penguat", bosKadEm:"\u{1F50A}", bosKadFakta:"Arus tapak yang kecil mengawal arus pengumpul yang besar. Gandaan arus β = I_C ÷ I_B.",
+ bosKadNama:"Penguat", bosKadEm:"\u{1F50A}", bosKadFakta:"Arus tapak yang kecil mengawal arus pengumpul yang besar. Gandaan arus β = I(C) ÷ I(B).",
  soalan:[
  {j:"nombor",t:"Elektron dipecutkan oleh beza keupayaan 500 V. Hitung tenaga kinetik elektron. Beri jawapan dalam unit 10⁻¹⁷ J.",b:8,tol:0.01,suf:"× 10⁻¹⁷ J",u:"E = eV = 1.6 × 10⁻¹⁹ × 500 = 8.0 × 10⁻¹⁷ J."},
  {j:"nombor",t:"Bagi elektron dalam soalan tadi, hitung halajunya. Beri jawapan dalam unit 10⁷ m s⁻¹ kepada 2 tempat perpuluhan.",b:1.33,tol:0.01,suf:"× 10⁷ m s⁻¹",u:"v = √(2eV ÷ m) = √(2 × 8.0 × 10⁻¹⁷ ÷ 9.11 × 10⁻³¹) = 1.33 × 10⁷ m s⁻¹."},
  {j:"pilih",t:"Beza keupayaan pemecut dinaikkan empat kali ganda. Halaju elektron menjadi:",p:["Dua kali ganda","Empat kali ganda","Lapan kali ganda","Separuh"],b:0,u:"v berkadar dengan √V. √4 = 2."},
- {j:"nombor",t:"Arus tapak transistor ialah 20 μA dan arus pengumpul ialah 2.0 mA. Hitung gandaan arus.",b:100,tol:0.5,suf:"",u:"β = I_C ÷ I_B = 2.0 × 10⁻³ ÷ 20 × 10⁻⁶ = 100."},
- {j:"nombor",t:"Transistor yang sama mempunyai arus tapak 35 μA. Hitung arus pengumpul dalam mA.",b:3.5,tol:0.01,suf:"mA",u:"I_C = βI_B = 100 × 35 μA = 3 500 μA = 3.5 mA."},
- {j:"nombor",t:"Bagi transistor dalam soalan tadi, hitung arus pengeluar dalam mA. Beri jawapan kepada 3 tempat perpuluhan.",b:3.535,tol:0.002,suf:"mA",u:"I_E = I_B + I_C = 0.035 + 3.5 = 3.535 mA."},
+ {j:"nombor",t:"Arus tapak transistor ialah 20 μA dan arus pengumpul ialah 2.0 mA. Hitung gandaan arus.",b:100,tol:0.5,suf:"",u:"β = I(C) ÷ I(B) = 2.0 × 10⁻³ ÷ 20 × 10⁻⁶ = 100."},
+ {j:"nombor",t:"Transistor yang sama mempunyai arus tapak 35 μA. Hitung arus pengumpul dalam mA.",b:3.5,tol:0.01,suf:"mA",u:"I(C) = βI(B) = 100 × 35 μA = 3 500 μA = 3.5 mA."},
+ {j:"nombor",t:"Bagi transistor dalam soalan tadi, hitung arus pengeluar dalam mA. Beri jawapan kepada 3 tempat perpuluhan.",b:3.535,tol:0.002,suf:"mA",u:"I(E) = I(B) + I(C) = 0.035 + 3.5 = 3.535 mA."},
  {j:"pilih",t:"Transistor n-p-n hanya mengalirkan arus pengumpul apabila:",p:["V tapak-pengeluar melebihi 0.7 V","Arus tapak sifar","Pengumpul disambung ke negatif","Pengeluar dibiarkan terbuka"],b:0,u:"Simpang tapak-pengeluar mesti dipincang depan dengan voltan melebihi voltan ambang."},
  {j:"pilih",t:"Mikrofon menghasilkan arus yang sangat kecil. Transistor digunakan dalam pembesar suara untuk:",p:["Menguatkan arus isyarat","Merektifikasi isyarat","Menyimpan cas isyarat","Menurunkan voltan isyarat"],b:0,u:"Perubahan kecil dalam arus tapak menghasilkan perubahan besar dalam arus pengumpul."}],
  bos:{j:"nombor",t:"Pembahagi voltan terdiri daripada perintang 10 kΩ (atas) dan 2 kΩ (bawah) disambung kepada 6 V. Hitung voltan merentasi perintang 2 kΩ.",b:1,tol:0.01,suf:"V",u:"V = 6 × 2 ÷ (10 + 2) = 1.0 V."}},
 
 {n:4, tempat:"Makmal Transistor", sk:"5.3 Menganalisis ciri transistor dan suis automatik", lampiran:"g1",
- kadNama:"Graf I_C-I_B", kadEm:"\u{1F4C8}", kadFakta:"Kecerunan graf arus pengumpul melawan arus tapak memberi gandaan arus transistor.",
+ kadNama:"Graf I(C)-I(B)", kadEm:"\u{1F4C8}", kadFakta:"Kecerunan graf arus pengumpul melawan arus tapak memberi gandaan arus transistor.",
  bosKadNama:"Suis Automatik", bosKadEm:"\u{1F319}", bosKadFakta:"Dengan perintang peka cahaya (LDR) di bahagian bawah pembahagi voltan, transistor menghidupkan lampu apabila gelap.",
  soalan:[
  {j:"nombor",t:"Berdasarkan Rajah 1, hitung gandaan arus transistor.",b:100,tol:0.5,suf:"",u:"Kecerunan = 4.0 mA ÷ 40 μA = 100."},
- {j:"nombor",t:"Berdasarkan Rajah 1, berapakah arus pengumpul apabila arus tapak ialah 25 μA? Beri jawapan dalam mA.",b:2.5,tol:0.02,suf:"mA",u:"I_C = 100 × 25 μA = 2.5 mA."},
+ {j:"nombor",t:"Berdasarkan Rajah 1, berapakah arus pengumpul apabila arus tapak ialah 25 μA? Beri jawapan dalam mA.",b:2.5,tol:0.02,suf:"mA",u:"I(C) = 100 × 25 μA = 2.5 mA."},
  {j:"pilih",t:"Berdasarkan Rajah 1, apakah yang berlaku kepada arus pengumpul apabila arus tapak sifar?",p:["Arus pengumpul juga sifar","Arus pengumpul maksimum","Arus pengumpul 100 mA","Arus pengumpul menjadi negatif"],b:0,u:"Graf melalui asalan: tiada arus tapak bermaksud transistor dimatikan."},
  {j:"nombor",t:"Suis automatik: LDR di bahagian bawah dan perintang 10 kΩ di atas, disambung kepada 6 V. Dalam gelap, rintangan LDR ialah 90 kΩ. Hitung voltan merentasi LDR.",b:5.4,tol:0.02,suf:"V",u:"V = 6 × 90 ÷ (10 + 90) = 5.4 V."},
  {j:"nombor",t:"Dalam cahaya terang, rintangan LDR yang sama menjadi 1 kΩ. Hitung voltan merentasi LDR. Beri jawapan kepada 2 tempat perpuluhan.",b:0.55,tol:0.01,suf:"V",u:"V = 6 × 1 ÷ (10 + 1) = 0.55 V."},
@@ -109,8 +109,8 @@ module.exports = {
    tiada:"{n} belum menunjukkan bukti penguasaan yang mencukupi bagi bab Elektronik. Cadangan: ulang hentian pertama dan perhatikan lampu jalan yang menyala sendiri pada waktu senja."
   },
   lampiran:{
-   g1:{jenis:"graf", x:[0,10,20,30,40], xLabel:"Arus tapak, I_B (μA)", titik:true, yMin:0, yMaks:5,
-     siri:[{label:"Arus pengumpul, I_C (mA)", y:[0,1,2,3,4], warna:"ungu"}],
+   g1:{jenis:"graf", x:[0,10,20,30,40], xLabel:"Arus tapak (μA)", titik:true, yMin:0, yMaks:5, grid:5,
+     siri:[{label:"Arus pengumpul (mA)", y:[0,1,2,3,4], warna:"ungu"}],
      kapsyen:"Rajah 1 · Graf arus pengumpul melawan arus tapak bagi sebuah transistor",
      alt:"Graf garis lurus melalui asalan: arus pengumpul bertambah 1 mA bagi setiap 10 mikroampere arus tapak, hingga 4 mA pada 40 mikroampere"}
   },
