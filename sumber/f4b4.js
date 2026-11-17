@@ -54,9 +54,9 @@ const ARAS = [
  bosKadNama:"Q = ml", bosKadEm:"\u{2668}\u{FE0F}", bosKadFakta:"Haba pendam, Q = ml. Haba pendam tentu pengewapan air hampir tujuh kali haba pendam tentu pelakuran ais.",
  soalan:[
  {j:"nombor",t:"Berdasarkan Rajah 1, berapakah takat lebur bahan itu?",b:0,tol:0.5,suf:"°C",u:"Bahagian mendatar pertama berlaku pada 0 °C, iaitu takat lebur ais."},
- {j:"nombor",t:"Berdasarkan Rajah 1, berapa lamakah proses peleburan berlaku?",b:6,tol:0.01,suf:"minit",u:"Peleburan berlaku dari minit ke-1 hingga minit ke-7, iaitu 6 minit."},
- {j:"pilih",t:"Berdasarkan Rajah 1, apakah keadaan jirim pada minit ke-10?",p:["Cecair","Pepejal","Gas","Pepejal dan cecair"],b:0,u:"Pada minit ke-10, suhu sedang naik antara 0 °C dan 100 °C, jadi semuanya cecair."},
- {j:"pilih",t:"Berdasarkan Rajah 1, mengapakah suhu kekal pada 100 °C dari minit ke-15 hingga ke-25?",p:["Haba memutuskan ikatan antara molekul","Pemanas berhenti membekalkan haba","Tenaga kinetik molekul bertambah dengan cepat","Haba hilang ke persekitaran sama banyak"],b:0,u:"Haba pendam pengewapan mengatasi daya tarikan antara molekul. Tenaga kinetik purata tidak berubah, jadi suhu malar."},
+ {j:"nombor",t:"Berdasarkan Rajah 1, berapa lamakah proses peleburan berlaku?",b:6,tol:0.01,suf:"minit",u:"Peleburan berlaku dari minit ke-2 hingga minit ke-8, iaitu 6 minit."},
+ {j:"pilih",t:"Berdasarkan Rajah 1, apakah keadaan jirim pada minit ke-10?",p:["Cecair","Pepejal","Gas","Pepejal dan cecair"],b:0,u:"Pada minit ke-10, suhu ialah 25 °C dan sedang naik, jadi semuanya cecair."},
+ {j:"pilih",t:"Berdasarkan Rajah 1, mengapakah suhu kekal pada 100 °C dari minit ke-16 hingga ke-26?",p:["Haba memutuskan ikatan antara molekul","Pemanas berhenti membekalkan haba","Tenaga kinetik molekul bertambah dengan cepat","Haba hilang ke persekitaran sama banyak"],b:0,u:"Haba pendam pengewapan mengatasi daya tarikan antara molekul. Tenaga kinetik purata tidak berubah, jadi suhu malar."},
  {j:"nombor",t:"Berdasarkan Rajah 1, pemanas 500 W memanaskan 0.54 kg ais. Hitung haba yang diserap semasa peleburan. Beri jawapan dalam kJ.",b:180,tol:0.5,suf:"kJ",u:"Q = Pt = 500 × (6 × 60) = 180 000 J = 180 kJ."},
  {j:"nombor",t:"Berdasarkan Rajah 1 dan data soalan tadi (500 W, 0.54 kg), hitung haba pendam tentu pelakuran ais. Beri jawapan dalam unit × 10⁵ J kg⁻¹ kepada 2 tempat perpuluhan.",b:3.33,tol:0.02,suf:"× 10⁵ J kg⁻¹",u:"l = Q ÷ m = 180 000 ÷ 0.54 = 3.33 × 10⁵ J kg⁻¹."},
  {j:"nombor",t:"Hitung haba yang diperlukan untuk mendidihkan sepenuhnya 0.20 kg air pada 100 °C. Beri jawapan dalam kJ.",b:452,tol:1,suf:"kJ",u:"Q = ml = 0.20 × 2.26 × 10⁶ = 452 000 J = 452 kJ."},
@@ -110,10 +110,10 @@ module.exports = {
    tiada:"{n} belum menunjukkan bukti penguasaan yang mencukupi bagi bab Haba. Cadangan: ulang hentian pertama dan perhatikan suhu air dan ais di dapur bersama keluarga."
   },
   lampiran:{
-   g1:{jenis:"graf", x:[0,1,7,15,25,27], xLabel:"Masa (minit)", titik:true, yMin:-20, yMaks:120,
-     siri:[{label:"Suhu (°C)", y:[-20,0,0,100,100,120], warna:"merah"}],
+   g1:{jenis:"graf", x:[0,2,4,6,8,10,12,14,16,18,20,22,24,26,28], setiap:2, xLabel:"Masa (minit)", titik:true, yMin:-20, yMaks:120,
+     siri:[{label:"Suhu (°C)", y:[-20,0,0,0,0,25,50,75,100,100,100,100,100,100,120], warna:"merah"}],
      kapsyen:"Rajah 1 · Lengkung pemanasan ais dengan pemanas 500 W",
-     alt:"Graf suhu melawan masa: suhu naik dari −20 ke 0 darjah Celsius dalam 1 minit, kekal 0 dari minit 1 hingga 7, naik ke 100 pada minit 15, kekal 100 hingga minit 25, kemudian naik ke 120 pada minit 27"},
+     alt:"Graf suhu melawan masa: suhu naik dari −20 ke 0 darjah Celsius dalam 2 minit, kekal 0 dari minit 2 hingga 8, naik ke 100 pada minit 16, kekal 100 hingga minit 26, kemudian naik ke 120 pada minit 28"},
    j1:jadual(1, "Tekanan dan isi padu udara terperangkap pada suhu bilik",
      ["Tekanan, p (kPa)", "Isi padu, V (cm^3)"],
      [["100","60"],["120","50"],["150","40"],["200","30"],["?","20"]])
